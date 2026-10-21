@@ -1,0 +1,14 @@
+{
+  "name": "obsidian-collapse-explorer",
+  "version": "1.0.0",
+  "description": "Obsidian plugin that adds a command to collapse every folder in the file explorer.",
+  "private": true,
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

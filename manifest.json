@@ -1,0 +1,9 @@
+{
+  "id": "collapse-explorer",
+  "name": "Collapse Explorer",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Adds a command to collapse every folder in the file explorer.",
+  "author": "hvera",
+  "isDesktopOnly": false
+}
