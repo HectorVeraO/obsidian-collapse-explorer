@@ -24,3 +24,7 @@ npm test
 ```
 
 Tests run with `node:test` and replace the `obsidian` module with a fake that mirrors the explorer tree's behavior. No dependencies to install.
+
+## License
+
+[MIT](LICENSE)
